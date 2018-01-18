@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# API Secret data
+headers.json
+
+# Pycharm
+.idea/
